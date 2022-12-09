@@ -5,7 +5,7 @@ Upload the dataset folder "chest_xray" in your drive and change the path in the 
 Deep Learning Based Pneumonia Detection.
 
 ### Description:
-This work mainly focuses on developing processing models using deep learning techniques. These models aim to help with the classification problem of determining whether there are pneumonia-related abnormalities in the chest x-ray and classifying these x-rays into two categories according to the detection results.
+This work mainly focuses on the use of machine learning algorithms to analyze chest radiographs to improve decision-making and reach the correct diagnosis. These models aim to help with the classification problem of determining whether there are pneumonia-related abnormalities in the chest x-ray and classifying these x-rays into two categories according to the detection results.
 
 ### Dataset:
 The dataset consists of 5856 chest X-ray images in JPEG format that are organized into three folders: train, test, and val. Each of these files
